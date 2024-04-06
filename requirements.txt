@@ -1,6 +1,5 @@
-absl-py==0.7.1
-alibi==0.5.1
-
+absl-py==0.15.0
+alibi==0.9.5
 astor==0.7.1
 backcall==0.1.0
 beautifulsoup4==4.9.1
